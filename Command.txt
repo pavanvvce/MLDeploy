@@ -1,0 +1,8 @@
+code .
+
+
+Create Virtual env
+.
+D:\Programs\Project\MLDeploy>conda create -p venv python=3.8 -y
+
+conda activate venv/
